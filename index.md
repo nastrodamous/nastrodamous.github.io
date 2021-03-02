@@ -13,3 +13,4 @@
 ---
 
 ### Resume
+[Resume](/pdf/Davis_Resume_2020-min.pdf)
