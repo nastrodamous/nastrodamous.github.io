@@ -3,8 +3,6 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Web developer interested in cutting-edge technology such as virtual reality, drones, and robotics. Over the course of the last fifteen years, I’ve administered and managed databases, manual and automated QA, as well as created and developed embedded systems and microcontrollers, to most recently leading and managing mobile Android and IOS application development and deployment.
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/andrejdavis24/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
