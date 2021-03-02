@@ -14,4 +14,4 @@
 
 ### Resume
 [Resume](/pdf/Davis_Resume_2020-min.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/pdf/Davis_Resume_2020-min.pdf?raw=true"/>
