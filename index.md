@@ -11,7 +11,9 @@
 - [Friendly Writing](https://github.com/nastrodamous/friendlyWriting)
 
 ---
-
+### Conctact 
+- Mobile - 678-469-9493
+- email - andre@andrejdavis.com
 ### Resume
 [Resume](/pdf/Davis_Resume_2020-min.pdf)
 <img src="/pdf/Davis_Resume_2020-min.pdf?raw=true"/>
