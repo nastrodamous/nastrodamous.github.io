@@ -5,6 +5,8 @@
 ### Projects
 
 - [Harry Potter Battle App](https://github.com/OsheaRD/HPBattleApp/)
+
+Wizard Battle against your friends or foes!
 - [Get Crushn](https://github.com/William-Thompson12/Back-End-Project)
 - [React Calculator](https://github.com/nastrodamous/react-calclator)
 - [Certified](https://github.com/MatthewLee4/certified)
